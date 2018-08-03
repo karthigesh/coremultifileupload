@@ -1,0 +1,22 @@
+{
+    "name": "karthigesh/multifileupload",
+    "description": "Multiple file upload",
+    "keywords": ["File", "Folder"],
+    "type": "library",
+    "version": "1.0.2",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "karthigesh",
+            "email": "karthigesh057@gmail.com",
+            "homepage": "https://www.facebook.com/karthigeshCEO"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {"karthigesh\\multifileupload\\": "route/Multifileupload"}
+    }
+
+}
